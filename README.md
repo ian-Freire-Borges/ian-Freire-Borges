@@ -2,9 +2,9 @@
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-borges-796458294/)
 
-<div style="display: flex; flex-direction: row; gap:10px;">
-    <img alt="Ian GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ian-Freire-Borges&show_icons=true&theme=dark"style="width: 600px; height: 200px;"/>
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-Freire-Borges&layout=donut&theme=dark" style="width: 400px; height: 200px;"/>
+<div style="margin-top: 20px; display: flex; flex-direction: column; gap: 40px; padding: 10px 0; align-items: flex-start;">
+    <img alt="Ian GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ian-Freire-Borges&show_icons=true&theme=dark" style="width: 600px; height: 200px;"/>
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-Freire-Borges&layout=donut&theme=dark" style="width: 600px; height: 200px;"/>
 </div>
 
 ### Tecnologias usadas:
