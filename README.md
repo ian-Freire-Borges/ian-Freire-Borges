@@ -1,4 +1,4 @@
-## Ola eu sou Ian Freire Borges ✌️
+## Olá! eu sou Ian Freire Borges ✌️
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-borges-796458294/)
 
@@ -15,3 +15,6 @@
     <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 150px; height: 40px; object-fit: fill;"/>
     <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="width: 150px; height: 40px; object-fit: fill;"/>
 </div>
+
+### Sobre Mim
+Olá! Sou Ian Freire Borges, estudante e desenvolvedor apaixonado com experiência em JavaScript, HTML, CSS e React. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de desenvolvimento web.
