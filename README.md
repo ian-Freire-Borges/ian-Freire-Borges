@@ -3,8 +3,8 @@
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-borges-796458294/)
 
 <div ">
-    <img alt="Ian GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ian-Freire-Borges&show_icons=true&theme=dark" style="height: 200px"/>
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-Freire-Borges&layout=donut&theme=dark" style="height: 200px;"/>
+<img alt="Estatísticas do GitHub de Ian" src="https://github-readme-stats.vercel.app/api?username=ian-Freire-Borges&show_icons=true&theme=dark&locale=pt-br" style="height: 200px"/>
+<img alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-Freire-Borges&layout=donut&theme=dark&locale=pt-br" style="height: 200px;"/>
 </div>
 
 ### Tecnologias usadas:
