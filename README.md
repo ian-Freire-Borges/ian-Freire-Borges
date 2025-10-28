@@ -24,4 +24,4 @@
 </div>
 
 ### Sobre Mim
-Olá! Sou Ian Freire Borges, estudante e desenvolvedor apaixonado com experiência em JavaScript, HTML, CSS e React. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de desenvolvimento web.
+Sou desenvolvedor Full Stack em formação, com foco em React, Node.js e MongoDB. Tenho experiência em projetos práticos que envolvem interfaces interativas, APIs REST e integração de banco de dados, sempre buscando desenvolver soluções funcionais e bem estruturadas.
