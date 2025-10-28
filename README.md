@@ -14,6 +14,11 @@
     <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="width: 150px; height: 40px; object-fit: fill;"/>
     <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="width: 150px; height: 40px; object-fit: fill;"/>
     <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="width: 150px; height: 40px; object-fit: fill;"/>
+    <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="width: 150px; height: 40px; object-fit: fill;"/>
+    <img alt="nodejs" src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" style="width: 150px; height: 40px; object-fit: fill;"/>
+    <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="width: 150px; height: 40px; object-fit: fill;"/>
+    <img alt="nextjs" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" style="width: 150px; height: 40px; object-fit: fill;"/>
+</div>
 </div>
 
 ### Sobre Mim
