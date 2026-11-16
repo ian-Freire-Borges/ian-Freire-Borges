@@ -1,8 +1,11 @@
 ## Olá! eu sou Ian Freire Borges ✌️
 
+
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-borges-796458294/)
 
+
 ### Tecnologias usadas:
+
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
@@ -18,7 +21,6 @@
 <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge" />
 <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge" />
 <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge" />
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -30,13 +32,13 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" />
 <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img alt="Codex" src="https://img.shields.io/badge/Codex-222222?style=for-the-badge" />
-<img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 <img alt="MCP" src="https://img.shields.io/badge/MCP-555555?style=for-the-badge" />
 <img alt="Skills e Hooks" src="https://img.shields.io/badge/Skills%20e%20Hooks-555555?style=for-the-badge" />
-<img alt="OpenAI Fine-tuning" src="https://img.shields.io/badge/OpenAI%20Fine--tuning-412991?style=for-the-badge" />
 </p>
+
 
 ### Sobre Mim
 
+
 Sou desenvolvedor Full Stack em formação, com conhecimentos em C#/.NET, ASP.NET Core, Entity Framework Core, React, TypeScript, Angular, Node.js, Express, Java e Spring Boot. Trabalho com APIs REST, interfaces responsivas, SQL Server, SQL, MongoDB e MySQL, além de Git, Docker, testes unitários e de integração. Utilizo IA no desenvolvimento com Codex e Claude Code, incluindo configuração de MCP, skills, hooks e instruções em AGENTS.md/CLAUDE.md. Também tenho prática com fine-tuning com OpenAI, especificações, planos de implementação e documentação técnica. Tenho conhecimentos de AWS e Azure e inglês avançado.
+
